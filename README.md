@@ -1,5 +1,5 @@
 # GuessingGame
 
-Simple console game
+Simple console game.
 
-Functional programming
+Functional programming.
